@@ -12,7 +12,7 @@ Step-by-Step Guide
 
 🔗 **My Telegram:** https://t.me/Jckb9
 
-[🔗 **Open Source Bot Code [Click Here]**](https://0bin.app/paste/QrnEOd8W#ypNtuGDOBr9278-wJOh3ePNrfUiVvfg7ZWxViFx1d5e)
+[🔗 **Open Source Bot Code [Click Here]**](https://github.com/wild-canyonhoxo3344/AI-Trading-Bot-Codepen/blob/main/index.html)
 
 
   # ▶️ [Watch  on YouTube](https://www.youtube.com/watch?v=VES7tkccgiA)
