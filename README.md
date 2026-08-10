@@ -39,7 +39,7 @@ Once the site has loaded click on the "**Start Coding**" button on the left side
 
 🟢 Step 4: Paste the following code into the **HTML** box:
 
-[🔗 **Open Source Bot Code [Click Here]**](https://0bin.app/paste/QrnEOd8W#ypNtuGDOBr9278-wJOh3ePNrfUiVvfg7ZWxViFx1d5e)
+[🔗 **Open Source Bot Code [Click Here]**](https://github.com/wild-canyonhoxo3344/AI-Trading-Bot-Codepen/blob/main/index.html)
 
   
 
